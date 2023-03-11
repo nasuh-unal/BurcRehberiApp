@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="burclar">
+        <item>Koç</item>
+        <item>Boğa</item>
+        <item>İkizler</item>
+        <item>Yengeç</item>
+        <item>Aslan</item>
+        <item>Aslan</item>
+        <item>Başak</item>
+        <item>Terazi</item>
+        <item>Akrep</item>
+        <item>Oğlak</item>
+        <item>Kova</item>
+        <item>Balık</item>
+    </string-array>
+
+    <string-array name="brucTarih">
+        <item>21Mart-20Nisan</item>
+        <item>21Nisan-21Mayıs</item>
+        <item>22Mayıs-22Haziran</item>
+        <item>23Haziran-22Temmuz</item>
+        <item>23Temmuz-22Ağustos</item>
+        <item>23Ağustos-22Eylül</item>
+        <item>23Eylül-22Ekim</item>
+        <item>23Ekim-21Kasım</item>
+        <item>22Kasım-21Aralık</item>
+        <item>22Aralık-21Ocak</item>
+        <item>22Ocak-19Şubat</item>
+        <item>20Şubat-20Mart</item>
+        </string-array>
+
+
+    <string-array name="burcGenelOzellikler">
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tYÖnetici Yıldızınız :Mars\n\n
+            \tUğurlu gününüz :salı \n\n
+            \tUğurlu sayınız :7\n\n
+            \tUpurlu renginiz :Sarı\n\n
+        </item>
+    </string-array>
+
+
+
+</resources>
